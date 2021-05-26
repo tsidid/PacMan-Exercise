@@ -10,4 +10,4 @@ I hope to add a change color function that will make the PacMen change colors wh
 
 The PacMen Exercise is distributed under MIT license which has been uploaded into this repository.
 
-<img src= "2pac.png" width= '400'/>
+<img src= "2Pac.png" width= '400'/>
