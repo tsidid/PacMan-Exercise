@@ -1,4 +1,5 @@
 # PacMen-Exercise
+## Produce PacMen and Play
 PacMen Exercise creates a factory where one can create PacMen by clicking the ADD PACMEN botton on the screen. When the PacMen are created, the START GAME boton then begins to move the PacMen around on the screen till PacMen detect the edges of the screen and bounce off it. This animation continues till the page is refreshed.
 
 How to Run:
