@@ -53,7 +53,7 @@ function update() {
     item.newimg.style.left = item.position.x;
     item.newimg.style.top = item.position.y;
   });
-  setTimeout(update, 20);
+  setTimeout(update, 200);
 }
 
 function checkCollisions(item) {
